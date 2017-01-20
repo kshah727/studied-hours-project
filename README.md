@@ -1,7 +1,7 @@
-# Basic Project
-## Basic Project Structure
+# Studied hours Project
+## Studied hours Project Structure
 
-*Default Structure for A Basic Project*
+*Default Structure for Studied Hours Project*
 
 **Java 7**
 
